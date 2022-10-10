@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import urllib.request
-#from urllib.request import Request
 
 seed_url = "https://www.federalreserve.gov/newsevents/pressreleases.htm"
 
