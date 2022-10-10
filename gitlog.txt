@@ -1,0 +1,23 @@
+commit a6d481dde45641f87d47cb7e0667b40a4ee25c04
+Author: Jake Faber <jfaber156@gmail.com>
+Date:   Sun Oct 9 23:30:07 2022 -0400
+
+    Deleted unnecessary commented line
+
+commit 669cc3897371be4f0e13e20c866fbf1ab8ab71df
+Author: Jake Faber <jfaber156@gmail.com>
+Date:   Sun Oct 9 23:29:12 2022 -0400
+
+    Updated README
+
+commit 4d073748aa6c3720c4d96e1ad57dd40819ab0d7c
+Author: Jake Faber <jfaber156@gmail.com>
+Date:   Sun Oct 9 23:24:35 2022 -0400
+
+    Add crawler scripts
+
+commit 8c7777ceb400b5755c151784d52aa6f2af007acf
+Author: Jake Faber <jfaber156@gmail.com>
+Date:   Sun Oct 9 23:23:28 2022 -0400
+
+    Initial commit
